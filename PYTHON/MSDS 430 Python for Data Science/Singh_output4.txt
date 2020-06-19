@@ -1,0 +1,11 @@
+NYM pitcher Degrom has an ERA of 1.81
+BOS pitcher Sale has an ERA of 1.97
+TB pitcher Snell has an ERA of 2.18
+WSH pitcher Scherzer has an ERA of 2.19
+CLE pitcher Bauer has an ERA of 2.22
+PHI pitcher Nola has an ERA of 2.28
+HOU pitcher Verlander has an ERA of 2.52
+CLE pitcher Kluber has an ERA of 2.68
+HOU pitcher Cole has an ERA of 2.75
+STL pitcher Mikolas has an ERA of 2.85
+There are 10 pitchers in the file
